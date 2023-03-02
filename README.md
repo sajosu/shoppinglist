@@ -1,3 +1,3 @@
 # shoppinglist
 
-Tehtäväpalautus Dynaaminen verkkosivu -kurssille.
+Assignment return to OAMK Dynamic webpage -course.
